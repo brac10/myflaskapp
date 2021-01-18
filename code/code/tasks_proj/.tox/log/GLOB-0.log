@@ -1,0 +1,6 @@
+action: GLOB, msg: packaging
+cwd: /home/pi/myDev/python/code/tasks_proj
+cmd: /home/pi/myDev/python/code/tasks_proj/venv/bin/python3 setup.py sdist --formats=zip --dist-dir /home/pi/myDev/python/code/tasks_proj/.tox/dist
+running sdist
+running egg_info
+error: [Errno 13] Permission denied
