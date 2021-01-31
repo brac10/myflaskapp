@@ -1,0 +1,6 @@
+.pytest*
+.vscode*
+.tox*
+.pylintrc
+__pycache**
+venv*

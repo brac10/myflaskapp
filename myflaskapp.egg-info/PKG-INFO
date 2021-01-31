@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: myflaskapp
+Version: 1.0.0
+Summary: Example
+Home-page: https://github.com/pypa/sampleproject
+Author: Scott Braconnier
+Author-email: Scott.Braconnier@Centauricorp.com
+License: UNKNOWN
+Description: # FlaskApp
+        
+        Simple application with authentication and CRUD functionality using the Python Flask micro-framework
+        
+        ## Installation
+        
+        To use this template, your computer needs:
+        
+        - [Python 2 or 3](https://python.org)
+        - [Pip Package Manager](https://pypi.python.org/pypi)
+        
+        ### Running the app
+        
+        ```bash
+        python app.py
+        ```
+        
+        
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

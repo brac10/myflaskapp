@@ -1,3 +1,0 @@
-"""
-Avoid Filename Collisions.
-"""

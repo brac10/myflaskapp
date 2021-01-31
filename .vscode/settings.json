@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "venv/bin/python"
+    "python.pythonPath": "/home/pi/myDev/python/myflaskapp/venv/bin/python3",
+    "python.linting.pylintEnabled": true
 }
